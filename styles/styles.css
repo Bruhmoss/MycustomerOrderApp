@@ -1,0 +1,16 @@
+table {
+    width: 500px;   
+}
+
+th {
+    text-align: left;
+    background-color: #efefef;
+    cursor: pointer;
+}
+
+.note{
+    color:navy;
+    text-align: center;
+    border: 3px solid #73AD21
+    
+}
